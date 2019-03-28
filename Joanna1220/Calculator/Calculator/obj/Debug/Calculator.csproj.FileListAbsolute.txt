@@ -1,0 +1,7 @@
+D:\Calculator\Joanna1220\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Calculator\Joanna1220\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Calculator\Joanna1220\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Calculator\Joanna1220\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Calculator\Joanna1220\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Calculator\Joanna1220\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Calculator\Joanna1220\Calculator\Calculator\obj\Debug\Calculator.pdb
