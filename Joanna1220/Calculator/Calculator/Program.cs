@@ -17,7 +17,7 @@ namespace ConsoleApp1
                 int n2 = r.Next(1, 101);
                 int n3 = r.Next(1, 101);
                 int n4 = r.Next(1, 101);
-                int op = r.Next(1, 5);
+                int op = r.Next(1, 11);
                 int result = 0;
 
                 switch (op)
